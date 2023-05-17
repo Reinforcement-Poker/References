@@ -15,4 +15,6 @@ Arquitectura de Meta para dos jugadores que modela las creencias del rival.
 ## Pluribus (2019)
 [post](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
 
+[repo (no oficial)](https://github.com/fedden/poker_ai)
+
 Arquitectura de Meta para seis jugadores que ha vencido a jugadores profesionales de talla mundial.
