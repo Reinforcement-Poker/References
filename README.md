@@ -7,6 +7,7 @@ Arquitectura "EndToEnd" Ligera que supera a Slumbot (2013), a DeepStack (2017) y
 
 ## Rebel (2020)
 [post](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
+
 [repo](https://github.com/facebookresearch/rebel)
 
 Arquitectura de Meta para dos jugadores que modela las creencias del rival.
