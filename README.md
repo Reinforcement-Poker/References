@@ -3,7 +3,7 @@
 ## AlphaHoldem (2022)
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20394/20153)
 
-Arquitectura "EndToEnd" Ligera que supera a Slumbot (2013), a DeepStack (2017) y a jugadores profesionales (continental). Pensada para dos jugadores.
+Arquitectura "EndToEnd" ligera que supera a Slumbot (2013), a DeepStack (2017) y a jugadores profesionales (continental). Pensada para dos jugadores.
 
 ## Rebel (2020)
 [post](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
