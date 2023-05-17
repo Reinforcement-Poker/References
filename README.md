@@ -28,3 +28,13 @@ Arquitectura de Meta para seis jugadores que ha vencido a jugadores profesionale
 [repo](https://github.com/datamllab/rlcard)
 
 Entorno para entrenar agentes de RL en juegos de cartas. Tiene algoritmos básicos de RL ya implementados.
+
+### ReplayPoker
+[web](https://replaypoker.com)
+
+Web para jugar al poker sin dinero real.
+
+### Slumbot.com
+[web](https://slumbot.com/)
+
+Web con una versión de slumbot desplegada contra la que poder jugar.
