@@ -38,3 +38,7 @@ Web para jugar al poker sin dinero real.
 [web](https://slumbot.com/)
 
 Web con una versión de slumbot desplegada contra la que poder jugar.
+
+## Otros
+
+[aipokertutorial.com](https://aipokertutorial.com/): Explicación de la teoría detras de las AI de poker.
