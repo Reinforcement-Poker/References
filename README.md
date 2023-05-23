@@ -39,6 +39,13 @@ Web para jugar al poker sin dinero real.
 
 Web con una versión de slumbot desplegada contra la que poder jugar.
 
+## Datasets
+
+### IRC Poker Database
+[web](http://poker.cs.ualberta.ca/irc_poker_database.html)
+
+Base de datos con 10 millones de manos. El formato es horrible pero han hecho un [script](https://github.com/allenfrostline/PokerHandsDataset) para limpiar los datos y convertirlos a json.
+
 ## Otros
 
 [aipokertutorial.com](https://aipokertutorial.com/): Explicación de la teoría detrás de las IAs de poker.
