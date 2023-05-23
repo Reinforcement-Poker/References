@@ -39,6 +39,11 @@ Web para jugar al poker sin dinero real.
 
 Web con una versión de slumbot desplegada contra la que poder jugar.
 
+### Treys
+[repo](https://github.com/ihendley/treys)
+
+Libreria para el rankeo de las manos de poker. Funciona para manos de 5, 6 y 7 cartas.
+
 ## Datasets
 
 ### IRC Poker Database
