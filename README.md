@@ -29,6 +29,11 @@ Arquitectura de Meta para seis jugadores que ha vencido a jugadores profesionale
 
 Entorno para entrenar agentes de RL en juegos de cartas. Tiene algoritmos básicos de RL ya implementados.
 
+### NeuronPoker
+[repo](https://github.com/dickreuter/neuron_poker)
+
+Gym de OpenAI para poker.
+
 ### ReplayPoker
 [web](https://replaypoker.com)
 
